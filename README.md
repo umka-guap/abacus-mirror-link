@@ -84,4 +84,6 @@ Always prioritize security when interacting with darknet platforms. Use verified
 
 
 
-Update:  13.06.2025 03:39
+
+
+Update: Redirects fixed
