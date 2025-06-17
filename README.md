@@ -86,4 +86,6 @@ Always prioritize security when interacting with darknet platforms. Use verified
 
 
 
-Update: Redirects fixed
+
+
+Update: link is functioning
