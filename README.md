@@ -94,4 +94,6 @@ Always prioritize security when interacting with darknet platforms. Use verified
 
 
 
-Update:  06/24/2025 04-38-04 Resource URLs
+
+
+Update: Link is now functioning and operational
