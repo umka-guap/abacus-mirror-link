@@ -100,4 +100,6 @@ Always prioritize security when interacting with darknet platforms. Use verified
 
 
 
-Update:  07 July 2025 link is back up and accessible
+
+
+Update:  07/14/2025 url is back up
