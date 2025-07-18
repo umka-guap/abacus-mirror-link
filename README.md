@@ -102,4 +102,6 @@ Always prioritize security when interacting with darknet platforms. Use verified
 
 
 
-Update:  07/14/2025 url is back up
+
+
+Update: Just checked, the link is working fine now!
