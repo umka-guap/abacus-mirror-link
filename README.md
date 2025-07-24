@@ -106,4 +106,6 @@ Always prioritize security when interacting with darknet platforms. Use verified
 
 
 
-Update:  Monday 21 July 2025
+
+
+Update:  24 July Good news! The link is alive and well.
